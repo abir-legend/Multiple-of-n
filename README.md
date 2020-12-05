@@ -1,5 +1,7 @@
 # Multiple-of-n
 I still don't know how git works  but here is a more fast way to calculate all possible multiples of a no **N** without any repetation but is sort of unsorted way
+this was a fun challenge assigned by my friend //remind me to tag him here
+
 
 <h1>how it works</h1>
 in each loop we check wether n is a multiple of the input or not and then check if n < (input/n) *so it does not work for -tive numbers* but it doesnt go over 50% of numbers read below
